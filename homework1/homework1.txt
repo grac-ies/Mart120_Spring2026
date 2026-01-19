@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is a test
+=======
+here is the difference between gui and cli
+>>>>>>> aa0000f34942f70aadef2ebb3bab00e4af336703
