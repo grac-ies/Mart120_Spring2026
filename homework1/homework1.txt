@@ -1,4 +1,0 @@
-
-this is a test
-
-here is the difference between gui and cli
